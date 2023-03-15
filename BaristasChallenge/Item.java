@@ -1,4 +1,4 @@
-// package BaristasChallenge;
+package BaristasChallenge;
 
 /**
  * Item
